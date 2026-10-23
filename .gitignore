@@ -1,0 +1,6 @@
+node_modules/
+.expo/
+.babel/cache/
+dist/
+web-build/
+expo-env.d.ts
